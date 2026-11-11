@@ -2,6 +2,8 @@
 
 **https://gesms.artme.dev**
 
+Made by [ArtMe](https://artme.dev)
+
 Got an SMS from Georgian friends that reads `gamarjoba, rogor khar? xval mogwer`? Georgians often type in Latin letters: SMS, WhatsApp, Viber and Telegram messages written on phones without a Georgian keyboard. Regular translators don't understand this.
 
 GeSMS turns Georgian written in Latin letters into real Georgian script and translates it right away into English, Russian, Turkish, Spanish or French.
